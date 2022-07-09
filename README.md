@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="http://telegra.ph/file/0adf9e97735ba8a420973.jpg">
+  <img src="https://telegra.ph/file/5607d036dbb81419223b2.jpg">
 </p>
 
-<h4><p align="center"> 𝐒𝐡𝐮𝐊𝐮𝐫𝐞𝐧𝐚𝐢𝐗𝐑𝐨𝐁𝐨𝐭 </p></h4>
+<h4><p align="center"> 𝗝𝗢𝗞𝗘𝗥 𝗫 𝗥𝗢𝗕𝗢𝗧</p></h4>
 
 <p align="center">ShuKurenaiXRoBot is a modular bot running on python3 with anime theme and have a lot features.</p>
 
